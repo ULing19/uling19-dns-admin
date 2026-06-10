@@ -423,3 +423,8 @@ For the full list of all Node.js packages in use, please take a look at [`client
 Our main idea is that you are the one, who should be in control of your data. So it is only natural, that AdGuard Home does not collect any usage statistics, and does not use any web services unless you configure it to do so. See also the [full privacy policy][privacy] with every bit that *could in theory be sent* by AdGuard Home is available.
 
 [privacy]: https://adguard.com/en/privacy/home.html
+
+
+## ULing19 True Fork Notice / 复刻声明
+
+This repository is maintained as a ULing19 true GitHub fork of `AdguardTeam/AdGuardHome`. See [ULING19_FORK_NOTICE.md](./ULING19_FORK_NOTICE.md).
